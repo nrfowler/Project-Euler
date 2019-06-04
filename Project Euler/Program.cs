@@ -31,6 +31,9 @@ namespace Project_Euler
 console.writeline("AM of 50 numbers is 32. AM of 70 #'s is 53. The AM of combined sets is (50*32+70*53)/120={1}",(50*32+70*53)/120);
             
             }
+            else if(num==202){
+             console.writeline("sum of squares of two consecutive even integers is 2AM^2, where AM is the arithmetic mean");   
+            }
             Console.Read();
         }
     }
