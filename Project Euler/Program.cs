@@ -27,6 +27,10 @@ namespace Project_Euler
                 }
                 Console.WriteLine("Programmatic Method: Sum is "+sum);
             }
+            else if(num==201){
+console.writeline("AM of 50 numbers is 32. AM of 70 #'s is 53. The AM of combined sets is (50*32+70*53)/120={1}",(50*32+70*53)/120);
+            
+            }
             Console.Read();
         }
     }
